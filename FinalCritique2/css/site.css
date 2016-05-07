@@ -1,0 +1,14 @@
+body{
+    background-color: darkorange;
+}
+.thumbnail{
+    
+    border-width: 5px;
+    border-style: solid;
+    border-color: olivedrab;
+    background-color: darkorange;
+  
+}
+.navbar-default{
+    background-color: saddlebrown;
+}
